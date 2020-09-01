@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598954686 source:c:\users\mohammad hossein\desktop\trigon_frvr\trigon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
