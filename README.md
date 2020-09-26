@@ -19,7 +19,7 @@ the color of the pencil tip and the obstacle must be the same, otherwise you los
 
 
   # Screenshots of project
-  ![](http://8upload.ir/uploads/f18698785.gif)
+  ![](http://uupload.ir/files/aqns_webp.net-gifmaker_(5).gif)
   
   
 
